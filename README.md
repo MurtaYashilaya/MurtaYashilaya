@@ -10,4 +10,4 @@ Estou me desenvolvendo na linguagem JavaScript
 
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvido
 
-![](link)https://tenor.com/pt-BR/view/kitty-cat-gif-21831625
+![](https://tenor.com/pt-BR/view/kitty-cat-gif-21831625)
